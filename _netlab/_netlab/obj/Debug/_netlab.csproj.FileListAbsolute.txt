@@ -1,0 +1,7 @@
+C:\Users\My\source\repos\_netlab\_netlab\obj\Debug\_netlab.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\_netlab\_netlab\obj\Debug\_netlab.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\_netlab\_netlab\bin\Debug\_netlab.exe.config
+C:\Users\My\source\repos\_netlab\_netlab\bin\Debug\_netlab.exe
+C:\Users\My\source\repos\_netlab\_netlab\bin\Debug\_netlab.pdb
+C:\Users\My\source\repos\_netlab\_netlab\obj\Debug\_netlab.exe
+C:\Users\My\source\repos\_netlab\_netlab\obj\Debug\_netlab.pdb
